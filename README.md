@@ -6,4 +6,6 @@
 >>  Bd_flow4share.py: 百度迁徙数据爬取主程序<br>  
 >>  China_citynamelst.csv：全国地级市名单列表<br>  
 >>  conf_bdmigration：程序配置文件<br>  
+>>  readme.txt:参数配置教程 <br>
+
 
